@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/matsunoya-muneuchi",
  "yomi": "まつのやむねうちしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（抄）",
+  "era": "弘化年間（1844〜48）",
+  "author": "小山田（高田）与清（1783〜1847）",
+  "desc": "江戸の国学者小山田与清の歌の抄。弘化2年の大病から持ち直して迎えた新春の歌などを収める。門人の猿渡盛章が師の言いつけを受けて歌を拾い集めたと跋にいう。"
+ },
  "editions": [
   {
    "pid": "993386",
